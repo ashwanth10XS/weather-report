@@ -3,11 +3,13 @@
 - [Overview](#overview)
 - [Dependencies](#dependencies)
 - [License](#license)
-  ## Overview
+  
+ ## Overview
 
 
 A weather report using weather map.org API key utilizes HTML for structure, CSS for styling, and JavaScript to fetch and display real-time weather data, providing interactive and visual updates on weather conditions.
-note:replace your api key from openweathermap.org to know your weather condition.
+## note 
+replace your api key from openweathermap.org to know your weather condition.
 
 ## Dependencies
 - HTML: Provides the structure for the webpage.
